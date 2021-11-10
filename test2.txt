@@ -1,6 +1,2 @@
 asdasd
-<<<<<<< HEAD
-qweqwe rrr
-=======
-qweqwe asd
->>>>>>> b1
+qweqwe ppp
